@@ -1,8 +1,7 @@
 # BloodBank
 
-A blood donor management app with react native and firebase. This app was developed to help Asroy Bidyapith with their blood management activity in Ashuganj and nearby areas. Feel free to clone it for your own locality.
+A blood donor management app with react native and firebase.
 
-The app is available here.
 
 # Features
 Search donors with name or address
